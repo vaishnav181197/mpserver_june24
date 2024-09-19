@@ -1,0 +1,65 @@
+{
+  "videos": [
+    {
+      "title": "Makane - Vaazha Song",
+      "imageUrl": "https://i.ytimg.com/vi/A6zhU2RtjWI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBbPPoJAQXVkdRWSXi-gBOJUqq3cg",
+      "videoUrl": "https://www.youtube.com/embed/A6zhU2RtjWI?si=TVIxf-hAsZGWpwrU&autoplay=1",
+      "id": 7
+    },
+    {
+      "title": "Dil se Dil Tak",
+      "imageUrl": "https://i.ytimg.com/vi/RdVK0_LljRo/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/RdVK0_LljRo?si=TVIxf-hAsZGWpwrU&autoplay=1",
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "category": "Tutorials",
+      "videos": [
+        {
+          "title": "React Tutorial",
+          "imageUrl": "https://i.ytimg.com/vi/Dorf8i6lCuk/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/Dorf8i6lCuk?si=TVIxf-hAsZGWpwrU&autoplay=1",
+          "id": 9
+        }
+      ],
+      "id": 2
+    },
+    {
+      "category": "Songs",
+      "videos": [
+        {
+          "title": "Dil se Dil Tak",
+          "imageUrl": "https://i.ytimg.com/vi/RdVK0_LljRo/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/RdVK0_LljRo?si=TVIxf-hAsZGWpwrU&autoplay=1",
+          "id": 8
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "vid": 7,
+      "title": "Makane - Vaazha Song",
+      "url": "https://www.youtube.com/embed/A6zhU2RtjWI?si=TVIxf-hAsZGWpwrU&autoplay=1",
+      "date": "2024-09-19T10:08:06.300Z",
+      "id": 1
+    },
+    {
+      "vid": 8,
+      "title": "Dil se Dil Tak",
+      "url": "https://www.youtube.com/embed/RdVK0_LljRo?si=TVIxf-hAsZGWpwrU&autoplay=1",
+      "date": "2024-09-19T10:08:08.812Z",
+      "id": 2
+    },
+    {
+      "vid": 9,
+      "title": "React Tutorial",
+      "url": "https://www.youtube.com/embed/Dorf8i6lCuk?si=TVIxf-hAsZGWpwrU&autoplay=1",
+      "date": "2024-09-19T11:21:28.575Z",
+      "id": 3
+    }
+  ]
+}
